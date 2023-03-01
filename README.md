@@ -1,4 +1,4 @@
-# osTicket-Installation
+# 💻osTicket-Installation💻
 - Copy the Public IP Address in the VM https://imgur.com/sPhI3RG
 - Open Remote Desktop Connection & paste the IP Address https://imgur.com/IsyAhUf
 - Type your credentials to log in https://imgur.com/ixQs1a3, https://imgur.com/zZSHdwa
@@ -11,3 +11,17 @@
 - Download & install the VC_Redist file https://imgur.com/uLvMa3Z
 - Install MYSQL https://imgur.com/aYR4Nmc & choose Typical Installation https://imgur.com/Q6WdJTT
 - Choose standard Configuration https://imgur.com/AZ3DTbl, create your password https://imgur.com/6OtbTzJ & click Execute https://imgur.com/3t6nZo8
+- Open IIS https://imgur.com/hMWgTkF, PHP Manager https://imgur.com/lrisHq9, & register the PHP https://imgur.com/xVsFUn8
+- Choose PHP-CGI https://imgur.com/egaSu3G & restart the web server https://imgur.com/ke5pkXA
+- Download the osTIcket https://imgur.com/3LPXO0W
+- Open inetpub in Windows C https://imgur.com/HUOH4Ri
+- Open wwwroot https://imgur.com/4eCt0iO, drag the upload folder into the wwwroot folder https://imgur.com/KBC3GpM, https://imgur.com/bZ98zeF
+- Rename the file to osTicket https://imgur.com/XeHghnX & restart the server https://imgur.com/9K5cOC3
+- Your osTicket is now working https://imgur.com/kLtOp1A
+- Open the PHP Manager & click Enable or disable an extension https://imgur.com/KWNQnhd, Enable the pjp_intell.dll https://imgur.com/MyHdPjw, & Enable the php_opache.dll https://imgur.com/a00xcq9
+- Refresh the osTicket to confirm you followed the steps correctly https://imgur.com/zFkky5W
+- Rename ost-samplecon fig.php https://imgur.com/NdLe6Rz
+- Download & install HeidiSQL https://imgur.com/ZQ4fePP, create a new connection https://imgur.com/OKVpQYG, type in the password from your MYSQL https://imgur.com/Fksmx1j
+- You now have connection to MYSQL https://imgur.com/Yq0rMKb
+- Right click Unnamed in HeidiSQL to create a new Database https://imgur.com/Nq3qDRp, Name the database osTicket https://imgur.com/Nu9cnCa
+You are now able to fill your osTicket https://imgur.com/Sz6FSvS, https://imgur.com/pLOPLDP
