@@ -1,4 +1,4 @@
-# 💻osTicket-Installation💻
+# 💻osTicket: Post-Installation Configuration💻
 - Copy the Public IP Address in the VM https://imgur.com/sPhI3RG
 - Open Remote Desktop Connection & paste the IP Address https://imgur.com/IsyAhUf
 - Type your credentials to log in https://imgur.com/ixQs1a3, https://imgur.com/zZSHdwa
